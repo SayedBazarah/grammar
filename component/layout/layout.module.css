@@ -18,3 +18,7 @@
   padding: 8px 4px;
   text-decoration: none;
 }
+.container span {
+  display: block;
+  font-size: 28px;
+}
