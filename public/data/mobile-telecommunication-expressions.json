@@ -1,101 +1,75 @@
 {
-  "title": "Response Test",
+  "title": "Mobile telecommunication expressions",
   "questions": [
     {
       "id": 1,
-      "question": "When do you have to pick John up at the airport? ........",
+      "question": "You can receive, display, edit and/or send text messages on any network that has a ........ agreement.",
       "answers": [
-        "He flew into the international airport",
-        "I don't think she's coming",
-        "I should be there at about five o'clock"
+        "multimedia messaging service",
+        "roaming",
+        "short message service",
+        "mailbox"
       ],
-      "correct": "I should be there at about five o'clock"
+      "correct": "roaming"
     },
     {
       "id": 2,
-      "question": "What are you going to buy your wife for Christmas? ........",
-      "answers": [
-        "I picked it up yesterday",
-        "A bottle of perfume",
-        "She received jewelry from her mother"
-      ],
-      "correct": "A bottle of perfume"
+      "question": "It is......... for drivers to exercise proper control of their vehicle at all times whilst using the mobile phone.",
+      "answers": ["irrelevant", "illegal", "imperative", "inconsequential"],
+      "correct": "imperative"
     },
     {
       "id": 3,
-      "question": "How many people are coming to the birthday party? ........",
-      "answers": [
-        "There were about 70 people at the restaurant around the corner",
-        "Fifty people were there",
-        "We're expecting about 25 people"
-      ],
-      "correct": "We're expecting about 25 people"
+      "question": "Before removing the battery from your phone, please ensure that the device is switched off and the ........ is disconnected from the handset.",
+      "answers": ["charger", "antenna", "ear piece", "infrared port"],
+      "correct": "charger"
     },
     {
       "id": 4,
-      "question": "What are you doing tonight? ........",
-      "answers": [
-        "We had a great time",
-        "I went to that new Asian restaurant",
-        "I think I'm going to a movie with Susan"
-      ],
-      "correct": "I think I'm going to a movie with Susan"
+      "question": "You can transfer data between two cellular phones by using the ........ connection located on the front of your",
+      "answers": ["hands free", "main", "infra red", "charger"],
+      "correct": "infra red"
     },
     {
       "id": 5,
-      "question": "How was your honeymoon? ........",
-      "answers": ["It was great", "We went by plane", "We went to Mexico"],
-      "correct": "It was great"
+      "question": "Recently ........ phone numbers, answered calls and missed calls are stored in the call log.",
+      "answers": ["deleted", "added", "fixed", "dialed"],
+      "correct": "dialed"
     },
     {
       "id": 6,
-      "question": "What is your favorite kind of food? ........",
+      "question": "Before Internet services can be accessed on your cellular phone, you need to ........ to your network operator to enable the relevant configuration information.",
       "answers": [
-        "I ate Mexican food yesterday",
-        "I like Italian food",
-        "Korean cuisine is very spicy"
+        "subscribe",
+        "contact",
+        "get in touch with",
+        "make contact with"
       ],
-      "correct": "I like Italian food"
+      "correct": "subscribe"
     },
     {
       "id": 7,
-      "question": "Who is coming to the business conference? ........",
-      "answers": [
-        "The management team and the personnel department are coming for sure",
-        "The assembly line workers were there",
-        "Fifty members attended the conference"
-      ],
-      "correct": "The management team and the personnel department are coming for sure"
+      "question": "Cell broadcasts allow users to ........ messages on specified topics, such as traffic, and weather information from their network operator.",
+      "answers": ["receive", "dispatch", "process", "translate"],
+      "correct": "receive"
     },
     {
       "id": 8,
-      "question": "What are your thoughts on yesterday's meeting? ........",
-      "answers": [
-        "I think the president will be there",
-        "I'm glad we covered the human resources' issue",
-        "We should bring up the workers' concerns"
-      ],
-      "correct": "I'm glad we covered the human resources' issue"
+      "question": "The message centre number for your network ........ should be preprogrammed on your SIM card.",
+      "answers": ["contributor", "supplier", "contractor", "provider"],
+      "correct": "provider"
     },
     {
       "id": 9,
-      "question": "When are you going to the party? ........",
-      "answers": [
-        "We're going right after work",
-        "We arrived at 7 pm",
-        "Cindy is coming with me"
-      ],
-      "correct": "We're going right after work"
+      "question": "When you receive an MMS message on your phone, the message ........ is displayed along with a tone, illumination and/or vibration.",
+      "answers": ["box", "icon", "key", "connector"],
+      "correct": "icon"
     },
     {
       "id": 10,
-      "question": "Where is the best place to go for a drink? ........",
-      "answers": [
-        "La Cantina has some great food",
-        "I'll meet you there after work",
-        "The little pub around the corner has great beer on tap"
-      ],
-      "correct": "The little pub around the corner has great beer on tap"
+      "question": "Some hand phones are designed to be ........ with certain multimedia messaging services.",
+      "answers": ["communicable", "comfortable", "comparable", "compatible"],
+      "correct": "compatible"
     }
   ]
 }

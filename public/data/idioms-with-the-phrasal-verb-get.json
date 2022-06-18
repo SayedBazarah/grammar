@@ -1,101 +1,80 @@
 {
-  "title": "Response Test",
+  "title": "Idioms with the phrasal verb get",
   "questions": [
     {
       "id": 1,
-      "question": "When do you have to pick John up at the airport? ........",
+      "question": "After the small talk was over, it was time for the two heads of state to ........ discussions concerning bilateral relations between the two countries.  ",
       "answers": [
-        "He flew into the international airport",
-        "I don't think she's coming",
-        "I should be there at about five o'clock"
+        "get through with",
+        "get by with",
+        "get down to",
+        "get around"
       ],
-      "correct": "I should be there at about five o'clock"
+      "correct": ""
     },
     {
       "id": 2,
-      "question": "What are you going to buy your wife for Christmas? ........",
-      "answers": [
-        "I picked it up yesterday",
-        "A bottle of perfume",
-        "She received jewelry from her mother"
-      ],
-      "correct": "A bottle of perfume"
+      "question": "My accountant advised me that one of the best ways to ........ paying taxes in my own country was to set up an offshore bank account. ",
+      "answers": ["get away with", "get by with", "get down to", "get around"],
+      "correct": ""
     },
     {
       "id": 3,
-      "question": "How many people are coming to the birthday party? ........",
-      "answers": [
-        "There were about 70 people at the restaurant around the corner",
-        "Fifty people were there",
-        "We're expecting about 25 people"
-      ],
-      "correct": "We're expecting about 25 people"
+      "question": " The high school teacher was so strict that he would not let his students ........ any of the stunts that they tried to pull with their previous teacher. ",
+      "answers": ["get away with", "get by with", "get down to", "get around"],
+      "correct": ""
     },
     {
       "id": 4,
-      "question": "What are you doing tonight? ........",
-      "answers": [
-        "We had a great time",
-        "I went to that new Asian restaurant",
-        "I think I'm going to a movie with Susan"
-      ],
-      "correct": "I think I'm going to a movie with Susan"
+      "question": "Train passengers wishing to go to the football match were advised to ........ the train at the next stop.",
+      "answers": ["get on with", "get off", "get in", "get on"],
+      "correct": ""
     },
     {
       "id": 5,
-      "question": "How was your honeymoon? ........",
-      "answers": ["It was great", "We went by plane", "We went to Mexico"],
-      "correct": "It was great"
+      "question": "By the time I ........ you, you will be sorry that you ever stepped foot on the face of this earth. ",
+      "answers": [
+        "get through with",
+        "get by with",
+        "get down to",
+        "get around"
+      ],
+      "correct": ""
     },
     {
       "id": 6,
-      "question": "What is your favorite kind of food? ........",
+      "question": "The referee instructed both captains to stop their complaining and ........ the rugby matches.",
       "answers": [
-        "I ate Mexican food yesterday",
-        "I like Italian food",
-        "Korean cuisine is very spicy"
+        "get by with",
+        "get on with",
+        "get through with",
+        "get by with"
       ],
-      "correct": "I like Italian food"
+      "correct": ""
     },
     {
       "id": 7,
-      "question": "Who is coming to the business conference? ........",
-      "answers": [
-        "The management team and the personnel department are coming for sure",
-        "The assembly line workers were there",
-        "Fifty members attended the conference"
-      ],
-      "correct": "The management team and the personnel department are coming for sure"
+      "question": "The days when Americans can ........ in the world on English only will soon be gone. ",
+      "answers": ["get in", "get off", "get by", "get on"],
+      "correct": ""
     },
     {
       "id": 8,
-      "question": "What are your thoughts on yesterday's meeting? ........",
-      "answers": [
-        "I think the president will be there",
-        "I'm glad we covered the human resources' issue",
-        "We should bring up the workers' concerns"
-      ],
-      "correct": "I'm glad we covered the human resources' issue"
+      "question": "Please mind your step when you ........ the train. ",
+      "answers": ["get on with", "get by with", "get by", "get on"],
+      "correct": ""
     },
     {
       "id": 9,
-      "question": "When are you going to the party? ........",
-      "answers": [
-        "We're going right after work",
-        "We arrived at 7 pm",
-        "Cindy is coming with me"
-      ],
-      "correct": "We're going right after work"
+      "question": "I knew that I had to ......... early the next morning so I set my alarm for 4.30 a.m. ",
+      "answers": ["get on", "get off", "get up", "get out"],
+      "correct": ""
     },
     {
       "id": 10,
-      "question": "Where is the best place to go for a drink? ........",
-      "answers": [
-        "La Cantina has some great food",
-        "I'll meet you there after work",
-        "The little pub around the corner has great beer on tap"
-      ],
-      "correct": "The little pub around the corner has great beer on tap"
+      "question": "Employees at the reinsurance company were finding it very difficult to ........ with their new manager.",
+      "answers": ["get along", "get away", "get through", "get out"],
+      "correct": ""
     }
   ]
 }

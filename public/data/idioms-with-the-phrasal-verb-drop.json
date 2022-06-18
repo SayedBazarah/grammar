@@ -1,101 +1,75 @@
 {
-  "title": "Response Test",
+  "title": "Idioms with the phrasal verb drop",
   "questions": [
     {
       "id": 1,
-      "question": "When do you have to pick John up at the airport? ........",
-      "answers": [
-        "He flew into the international airport",
-        "I don't think she's coming",
-        "I should be there at about five o'clock"
-      ],
-      "correct": "I should be there at about five o'clock"
+      "question": "Many parents assume that their children will ........ in school if they spend too much time playing video games.",
+      "answers": ["drop off", "drop out", "drop over", "drop behind"],
+      "correct": "drop behind"
     },
     {
       "id": 2,
-      "question": "What are you going to buy your wife for Christmas? ........",
-      "answers": [
-        "I picked it up yesterday",
-        "A bottle of perfume",
-        "She received jewelry from her mother"
-      ],
-      "correct": "A bottle of perfume"
+      "question": "Children who ........ of school face a high risk of sexual exploitation, hazardous labor, and living in the street. ",
+      "answers": ["drop off", "drop out", "drop behind", "drop in"],
+      "correct": "drop out"
     },
     {
       "id": 3,
-      "question": "How many people are coming to the birthday party? ........",
-      "answers": [
-        "There were about 70 people at the restaurant around the corner",
-        "Fifty people were there",
-        "We're expecting about 25 people"
-      ],
-      "correct": "We're expecting about 25 people"
+      "question": "It is not necessary to attend every class in order to participate, so please ........ and join the fun! ",
+      "answers": ["drop off", "drop in on", "drop behind", "drop in"],
+      "correct": "drop in"
     },
     {
       "id": 4,
-      "question": "What are you doing tonight? ........",
-      "answers": [
-        "We had a great time",
-        "I went to that new Asian restaurant",
-        "I think I'm going to a movie with Susan"
-      ],
-      "correct": "I think I'm going to a movie with Susan"
+      "question": " Students who are required to pass a test to enter the 9th grade are more likely to ........ prior to entering 10th grade.",
+      "answers": ["drop off", "drop out", "drop behind", "drop in"],
+      "correct": "drop out"
     },
     {
       "id": 5,
-      "question": "How was your honeymoon? ........",
-      "answers": ["It was great", "We went by plane", "We went to Mexico"],
-      "correct": "It was great"
+      "question": "A 27-year-old Canadian woman confused the weekend with a weekday and ........ her 6-year-old at school on a Saturday. ",
+      "answers": ["dropped off", "dropped out", "dropped behind", "dropped in"],
+      "correct": "dropped off"
     },
     {
       "id": 6,
-      "question": "What is your favorite kind of food? ........",
+      "question": "Visitors attending the annual Open House have the option of either participating in information sessions for their entire duration or ........ portions of the seminars based on their schedule and interest. ",
       "answers": [
-        "I ate Mexican food yesterday",
-        "I like Italian food",
-        "Korean cuisine is very spicy"
+        "dropping out",
+        "dropping in",
+        "dropping behind",
+        "dropping in on"
       ],
-      "correct": "I like Italian food"
+      "correct": "dropping in on"
     },
     {
       "id": 7,
-      "question": "Who is coming to the business conference? ........",
+      "question": "Special ramps for picking up and .........passengers are provided at the curbs of the arrival and departure floors of each terminal. ",
       "answers": [
-        "The management team and the personnel department are coming for sure",
-        "The assembly line workers were there",
-        "Fifty members attended the conference"
+        "dropping off",
+        "dropping out",
+        "dropping behind",
+        "dropping in"
       ],
-      "correct": "The management team and the personnel department are coming for sure"
+      "correct": "dropping off"
     },
     {
       "id": 8,
-      "question": "What are your thoughts on yesterday's meeting? ........",
-      "answers": [
-        "I think the president will be there",
-        "I'm glad we covered the human resources' issue",
-        "We should bring up the workers' concerns"
-      ],
-      "correct": "I'm glad we covered the human resources' issue"
+      "question": "Unannounced visits are usual on campus, and guests are always welcome. Friends sometimes ........ one another, but it is mostly relatives who visit each other, and mothers who frequently meet with their daughters.",
+      "answers": ["drop off", "drop in on", "drop behind", "drop in"],
+      "correct": "drop in on"
     },
     {
       "id": 9,
-      "question": "When are you going to the party? ........",
-      "answers": [
-        "We're going right after work",
-        "We arrived at 7 pm",
-        "Cindy is coming with me"
-      ],
-      "correct": "We're going right after work"
+      "question": "Please ........ between 4:30 and 6:30 p.m. this coming Wednesday November 16 for drinks, hors d'oeuvres, and conversation. ",
+      "answers": ["drop off", "drop in on", "drop in", "drop behind"],
+      "correct": "drop in"
     },
     {
       "id": 10,
-      "question": "Where is the best place to go for a drink? ........",
-      "answers": [
-        "La Cantina has some great food",
-        "I'll meet you there after work",
-        "The little pub around the corner has great beer on tap"
-      ],
-      "correct": "The little pub around the corner has great beer on tap"
+      "question": " Senior Constable Smith asked the suspect to ........ the police station at lunch time in order to answer some questions regarding his alleged involvement in a bank robbery.",
+      "answers": ["drop over", "drop off", "drop out", "drop by"],
+      "correct": "drop by"
     }
   ]
 }

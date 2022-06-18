@@ -38,7 +38,11 @@ export default function Exam({ data: { title, questions } }) {
                   <div key={id}>
                     <p>
                       <span>Question{id + 1}: </span>
-                      {questions[id].question}
+                      <div
+                        dangerouslySetInnerHTML={{
+                          __html: questions[id].question,
+                        }}
+                      ></div>
                     </p>
                     <p>
                       {" "}
@@ -54,8 +58,11 @@ export default function Exam({ data: { title, questions } }) {
           <div className={Style.question}>
             <div>
               <h2>Question {count + 1}:</h2>
-              <p>{questions[count].question}</p>
-
+              <div
+                dangerouslySetInnerHTML={{
+                  __html: questions[count].question,
+                }}
+              ></div>
               <div>
                 {questions[count].answers.map((answer, index) => {
                   return (

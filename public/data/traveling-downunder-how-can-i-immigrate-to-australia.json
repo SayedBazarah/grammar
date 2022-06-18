@@ -1,101 +1,65 @@
 {
-  "title": "Response Test",
+  "title": "Traveling Downunder: How can I immigrate to Australia?",
   "questions": [
     {
       "id": 1,
-      "question": "When do you have to pick John up at the airport? ........",
-      "answers": [
-        "He flew into the international airport",
-        "I don't think she's coming",
-        "I should be there at about five o'clock"
-      ],
-      "correct": "I should be there at about five o'clock"
+      "question": "Tourists who visit Australia without a visa will usually be ........ entry into the country. ",
+      "answers": ["refused", "rejected", "revoked", "rebuked"],
+      "correct": "refused"
     },
     {
       "id": 2,
-      "question": "What are you going to buy your wife for Christmas? ........",
-      "answers": [
-        "I picked it up yesterday",
-        "A bottle of perfume",
-        "She received jewelry from her mother"
-      ],
-      "correct": "A bottle of perfume"
+      "question": "The Australian government has decided to increase the number of ........ available to skilled workers next year",
+      "answers": ["passports", "documents", "visas", "passes"],
+      "correct": "visas"
     },
     {
       "id": 3,
-      "question": "How many people are coming to the birthday party? ........",
-      "answers": [
-        "There were about 70 people at the restaurant around the corner",
-        "Fifty people were there",
-        "We're expecting about 25 people"
-      ],
-      "correct": "We're expecting about 25 people"
+      "question": "The Australian minister for ........ has come under a lot of scrutiny lately for her department's decision to issue refugee status to boat people from Papua. ",
+      "answers": ["immigrant", "emigrant", "colonization", "immigration"],
+      "correct": "immigration"
     },
     {
       "id": 4,
-      "question": "What are you doing tonight? ........",
-      "answers": [
-        "We had a great time",
-        "I went to that new Asian restaurant",
-        "I think I'm going to a movie with Susan"
-      ],
-      "correct": "I think I'm going to a movie with Susan"
+      "question": "Newly arrived migrants must live in Australia for a period of two years before they are eligible to become permanent ........",
+      "answers": ["nationalities", "populations", "residents", "inhabitants"],
+      "correct": "residents"
     },
     {
       "id": 5,
-      "question": "How was your honeymoon? ........",
-      "answers": ["It was great", "We went by plane", "We went to Mexico"],
-      "correct": "It was great"
+      "question": "There has been a sharp increase in the number of boat people ........ to Australia in the past ten years. ",
+      "answers": ["arriving", "traveling", "departing", "transiting"],
+      "correct": "traveling"
     },
     {
       "id": 6,
-      "question": "What is your favorite kind of food? ........",
-      "answers": [
-        "I ate Mexican food yesterday",
-        "I like Italian food",
-        "Korean cuisine is very spicy"
-      ],
-      "correct": "I like Italian food"
+      "question": "Australia is a ........ country and therefore has the right to choose whether or not tourists are granted with visas. ",
+      "answers": ["independent", "governing", "autonomous", "sovereign"],
+      "correct": "sovereign"
     },
     {
       "id": 7,
-      "question": "Who is coming to the business conference? ........",
-      "answers": [
-        "The management team and the personnel department are coming for sure",
-        "The assembly line workers were there",
-        "Fifty members attended the conference"
-      ],
-      "correct": "The management team and the personnel department are coming for sure"
+      "question": "People with a known history of tuberculosis will automatically be ........ from entering Australia. ",
+      "answers": ["refused", "rejected", "discarded", "disqualified"],
+      "correct": "disqualified"
     },
     {
       "id": 8,
-      "question": "What are your thoughts on yesterday's meeting? ........",
-      "answers": [
-        "I think the president will be there",
-        "I'm glad we covered the human resources' issue",
-        "We should bring up the workers' concerns"
-      ],
-      "correct": "I'm glad we covered the human resources' issue"
+      "question": "Australian citizens who are receiving social security benefits from the government are not permitted to ....... tourists wanting to travel to Australia. ",
+      "answers": ["benefactor", "sponsor", "giver", "donor"],
+      "correct": "sponsor"
     },
     {
       "id": 9,
-      "question": "When are you going to the party? ........",
-      "answers": [
-        "We're going right after work",
-        "We arrived at 7 pm",
-        "Cindy is coming with me"
-      ],
-      "correct": "We're going right after work"
+      "question": "Tourists involved in illegal activities such as drug trafficking and prostitution may have their visas ....... permanently and be banned from entering Australia at any time in the futue. ",
+      "answers": ["cancelled", "called off", "abandoned", "annulled"],
+      "correct": "cancelled"
     },
     {
       "id": 10,
-      "question": "Where is the best place to go for a drink? ........",
-      "answers": [
-        "La Cantina has some great food",
-        "I'll meet you there after work",
-        "The little pub around the corner has great beer on tap"
-      ],
-      "correct": "The little pub around the corner has great beer on tap"
+      "question": "Retirement visas do not ........ to Australian permanent residency or citizenship. However people with this type of visa my stay in Australia for a long period of time. ",
+      "answers": ["lead", "result", "generate", "develop"],
+      "correct": "lead"
     }
   ]
 }

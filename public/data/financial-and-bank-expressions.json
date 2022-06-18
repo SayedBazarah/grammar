@@ -1,101 +1,65 @@
 {
-  "title": "Response Test",
+  "title": "Financial and bank expressions",
   "questions": [
     {
       "id": 1,
-      "question": "When do you have to pick John up at the airport? ........",
-      "answers": [
-        "He flew into the international airport",
-        "I don't think she's coming",
-        "I should be there at about five o'clock"
-      ],
-      "correct": "I should be there at about five o'clock"
+      "question": "Can you please ........ some money until we get paid next week?",
+      "answers": ["lend", "give", "borrow", "grant"],
+      "correct": "lend"
     },
     {
       "id": 2,
-      "question": "What are you going to buy your wife for Christmas? ........",
-      "answers": [
-        "I picked it up yesterday",
-        "A bottle of perfume",
-        "She received jewelry from her mother"
-      ],
-      "correct": "A bottle of perfume"
+      "question": "I decided to invest in the commodities market as the ...... .. on offer from bank was at an all time low.",
+      "answers": ["increase", "interest", "rent", "tax"],
+      "correct": "interest"
     },
     {
       "id": 3,
-      "question": "How many people are coming to the birthday party? ........",
-      "answers": [
-        "There were about 70 people at the restaurant around the corner",
-        "Fifty people were there",
-        "We're expecting about 25 people"
-      ],
-      "correct": "We're expecting about 25 people"
+      "question": "Many retailers in Jakarta refuse to exchange purchases unless you can show them/ our ........",
+      "answers": ["recipe", "receipt", "bill", "change"],
+      "correct": "receipt"
     },
     {
       "id": 4,
-      "question": "What are you doing tonight? ........",
-      "answers": [
-        "We had a great time",
-        "I went to that new Asian restaurant",
-        "I think I'm going to a movie with Susan"
-      ],
-      "correct": "I think I'm going to a movie with Susan"
+      "question": "My boss informed me that I had been nominated to ........ a sales pitch to one of our company's largest buyers ",
+      "answers": ["make", "perform", "talk", "do"],
+      "correct": ""
     },
     {
       "id": 5,
-      "question": "How was your honeymoon? ........",
-      "answers": ["It was great", "We went by plane", "We went to Mexico"],
-      "correct": "It was great"
+      "question": "I saw a very good ........ advertised in the newspaper this week.",
+      "answers": ["employment", "occupation", "work", "job"],
+      "correct": "job"
     },
     {
       "id": 6,
-      "question": "What is your favorite kind of food? ........",
-      "answers": [
-        "I ate Mexican food yesterday",
-        "I like Italian food",
-        "Korean cuisine is very spicy"
-      ],
-      "correct": "I like Italian food"
+      "question": "My wife has a ........ job at the department store.",
+      "answers": ["half-time", "spare-time", "part-time", "over-time"],
+      "correct": "part-time"
     },
     {
       "id": 7,
-      "question": "Who is coming to the business conference? ........",
-      "answers": [
-        "The management team and the personnel department are coming for sure",
-        "The assembly line workers were there",
-        "Fifty members attended the conference"
-      ],
-      "correct": "The management team and the personnel department are coming for sure"
+      "question": "The psychiatrist gave his patient a ........ for some medicine. ",
+      "answers": ["recipe", "statement", "prescription", "receipt"],
+      "correct": ""
     },
     {
       "id": 8,
-      "question": "What are your thoughts on yesterday's meeting? ........",
-      "answers": [
-        "I think the president will be there",
-        "I'm glad we covered the human resources' issue",
-        "We should bring up the workers' concerns"
-      ],
-      "correct": "I'm glad we covered the human resources' issue"
+      "question": "When a fire broke out at the Louvre, at least twenty ........ paintings were destroyed including two by Henri Matisse.",
+      "answers": ["worthless", "priceless", "valueless", "useless"],
+      "correct": "priceless"
     },
     {
       "id": 9,
-      "question": "When are you going to the party? ........",
-      "answers": [
-        "We're going right after work",
-        "We arrived at 7 pm",
-        "Cindy is coming with me"
-      ],
-      "correct": "We're going right after work"
+      "question": "I must remember to fill in my tax ........ before the end of this week.",
+      "answers": ["return", "declaration", "brochure", "pamphlet"],
+      "correct": "return"
     },
     {
       "id": 10,
-      "question": "Where is the best place to go for a drink? ........",
-      "answers": [
-        "La Cantina has some great food",
-        "I'll meet you there after work",
-        "The little pub around the corner has great beer on tap"
-      ],
-      "correct": "The little pub around the corner has great beer on tap"
+      "question": "Can you take this money to the bank and make a ........ for me? ",
+      "answers": ["loan", "transaction", "deposit", "withdrawal"],
+      "correct": "deposit"
     }
   ]
 }

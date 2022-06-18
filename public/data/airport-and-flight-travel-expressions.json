@@ -1,101 +1,65 @@
 {
-  "title": "Response Test",
+  "title": "Airport and flight travel expressions",
   "questions": [
     {
       "id": 1,
-      "question": "When do you have to pick John up at the airport? ........",
-      "answers": [
-        "He flew into the international airport",
-        "I don't think she's coming",
-        "I should be there at about five o'clock"
-      ],
-      "correct": "I should be there at about five o'clock"
+      "question": "Check-in counters are open two hours before the scheduled flight ........ time. ",
+      "answers": ["going", "arrival", "departure", "transit"],
+      "correct": "departure"
     },
     {
       "id": 2,
-      "question": "What are you going to buy your wife for Christmas? ........",
-      "answers": [
-        "I picked it up yesterday",
-        "A bottle of perfume",
-        "She received jewelry from her mother"
-      ],
-      "correct": "A bottle of perfume"
+      "question": "It is the passenger's responsibility to ensure their ........ is valid for entry and they have fulfilled all immigration requirements in the country of destination.",
+      "answers": ["endorsement", "passport", "document", "papers"],
+      "correct": "passport"
     },
     {
       "id": 3,
-      "question": "How many people are coming to the birthday party? ........",
-      "answers": [
-        "There were about 70 people at the restaurant around the corner",
-        "Fifty people were there",
-        "We're expecting about 25 people"
-      ],
-      "correct": "We're expecting about 25 people"
+      "question": "Passengers are required to produce appropriate ........ at the check-in counter.  ",
+      "answers": ["passport", "visa", "ticket", "identification"],
+      "correct": "identification"
     },
     {
       "id": 4,
-      "question": "What are you doing tonight? ........",
-      "answers": [
-        "We had a great time",
-        "I went to that new Asian restaurant",
-        "I think I'm going to a movie with Susan"
-      ],
-      "correct": "I think I'm going to a movie with Susan"
+      "question": "Passengers are advised to be at the ........ gate at least thirty minutes before the scheduled departure time of their flight.",
+      "answers": ["boarding", "ticket", "departure", "arrival"],
+      "correct": "boarding"
     },
     {
       "id": 5,
-      "question": "How was your honeymoon? ........",
-      "answers": ["It was great", "We went by plane", "We went to Mexico"],
-      "correct": "It was great"
+      "question": "If you fail to check in on time or fail to board the aircraft by the time the aircraft departs, the fare you paid will not be ........ to you for any reason whatsoever. ",
+      "answers": ["returned", "remunerated", "refunded", "rewarded"],
+      "correct": "refunded"
     },
     {
       "id": 6,
-      "question": "What is your favorite kind of food? ........",
-      "answers": [
-        "I ate Mexican food yesterday",
-        "I like Italian food",
-        "Korean cuisine is very spicy"
-      ],
-      "correct": "I like Italian food"
+      "question": "Children below age 12 will not be accepted for ........ unless they are accompanied by a person of at least 18 years of age.",
+      "answers": ["journey", "voyage", "carriage", "trip"],
+      "correct": "carriage"
     },
     {
       "id": 7,
-      "question": "Who is coming to the business conference? ........",
-      "answers": [
-        "The management team and the personnel department are coming for sure",
-        "The assembly line workers were there",
-        "Fifty members attended the conference"
-      ],
-      "correct": "The management team and the personnel department are coming for sure"
+      "question": "Passengers are strongly ........ not to check in valuable and fragile items as baggage.",
+      "answers": ["advised", "informed", "told", "reminded"],
+      "correct": "advised"
     },
     {
       "id": 8,
-      "question": "What are your thoughts on yesterday's meeting? ........",
-      "answers": [
-        "I think the president will be there",
-        "I'm glad we covered the human resources' issue",
-        "We should bring up the workers' concerns"
-      ],
-      "correct": "I'm glad we covered the human resources' issue"
+      "question": "Passengers are required to retrieve their ........ as soon as it is available for collection at their place of destination.",
+      "answers": ["ticket", "baggage", "boarding pass", "passport"],
+      "correct": "baggage"
     },
     {
       "id": 9,
-      "question": "When are you going to the party? ........",
-      "answers": [
-        "We're going right after work",
-        "We arrived at 7 pm",
-        "Cindy is coming with me"
-      ],
-      "correct": "We're going right after work"
+      "question": "It is the passenger's responsibility to ........ all outgoing flights at least 72 hours prior to departure.",
+      "answers": ["rebook", "reorder", "reserve", "reconfirm"],
+      "correct": "reconfirm"
     },
     {
       "id": 10,
-      "question": "Where is the best place to go for a drink? ........",
-      "answers": [
-        "La Cantina has some great food",
-        "I'll meet you there after work",
-        "The little pub around the corner has great beer on tap"
-      ],
-      "correct": "The little pub around the corner has great beer on tap"
+      "question": "Passengers must ........ at the airport sufficiently in advance of the scheduled flight departure time to permit completion of government formalities and check-in procedures.",
+      "answers": ["depart", "transit", "arrive", "transfer"],
+      "correct": "arrive"
     }
   ]
 }

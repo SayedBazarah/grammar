@@ -1,101 +1,90 @@
 {
-  "title": "Response Test",
+  "title": "Conversations and Comprehension Test",
   "questions": [
     {
       "id": 1,
-      "question": "When do you have to pick John up at the airport? ........",
+      "question": "Boy: I want to buy a fish. </br> Woman: Do you want a tropical fish or a cold water one? </br> Boy: I want a really colorful fish. Can you show me some of the tropical fish you have? </br> Question: What is the boy looking for? ........ </br>A red and yellow fish  ",
       "answers": [
-        "He flew into the international airport",
-        "I don't think she's coming",
-        "I should be there at about five o'clock"
+        "A red and yellow fish",
+        "A cold water Goldfish",
+        "A tropical fish"
       ],
-      "correct": "I should be there at about five o'clock"
+      "correct": "A tropical fish"
     },
     {
       "id": 2,
-      "question": "What are you going to buy your wife for Christmas? ........",
+      "question": "Ray: I need a vacation </br>Toni: How about Mexico? I heard it's beautiful at this time of year.</br>Ray: Maybe, but I was hoping for somewhere a little cooler. </br>Question: Where does Ray want to go? ........",
       "answers": [
-        "I picked it up yesterday",
-        "A bottle of perfume",
-        "She received jewelry from her mother"
+        "Mexico because it's beautiful at this time of year",
+        "A place that has a cooler climate than Mexico",
+        "The Bahamas"
       ],
-      "correct": "A bottle of perfume"
+      "correct": "A place that has a cooler climate than Mexico"
     },
     {
       "id": 3,
-      "question": "How many people are coming to the birthday party? ........",
-      "answers": [
-        "There were about 70 people at the restaurant around the corner",
-        "Fifty people were there",
-        "We're expecting about 25 people"
-      ],
-      "correct": "We're expecting about 25 people"
+      "question": "Mary: Did you have fun at the barbeque last night? .</br>Linda: Yes, I thought the games were a great touch. .</br>Mary: Me too. I especially liked the three-legged race. .</br>Question: What did Linda like about the barbeque? ........ .</br>",
+      "answers": ["The three-legged race", "The food", "The games"],
+      "correct": "The games"
     },
     {
       "id": 4,
-      "question": "What are you doing tonight? ........",
+      "question": "Michael: My wife and I bought some great house plants yesterday.</br>Maria: Really. Do you have a lot of sunlight in your house? </br>Michael: No, so we bought some plants that have low-light requirements. </br>Question: What kind of plants did Michael buy? ",
       "answers": [
-        "We had a great time",
-        "I went to that new Asian restaurant",
-        "I think I'm going to a movie with Susan"
+        "Small, house plants",
+        "Plants that need a lot of sunlight",
+        "Plants that don't need a lot of sunlight"
       ],
-      "correct": "I think I'm going to a movie with Susan"
+      "correct": "Plants that don't need a lot of sunlight"
     },
+
     {
       "id": 5,
-      "question": "How was your honeymoon? ........",
-      "answers": ["It was great", "We went by plane", "We went to Mexico"],
-      "correct": "It was great"
+      "question": "Frank: I'm going to take my wife to Table Top Mountain this </br>weekend. Mark: That sounds interesting. Is it far? </br>Frank: Not too far. It will be about a three-hour drive from here. </br>Question: How are Frank and his wife traveling to Table Top Mountain? </br>",
+      "answers": ["By plane", "By car", "By ship"],
+      "correct": "By car"
     },
     {
       "id": 6,
-      "question": "What is your favorite kind of food? ........",
-      "answers": [
-        "I ate Mexican food yesterday",
-        "I like Italian food",
-        "Korean cuisine is very spicy"
-      ],
-      "correct": "I like Italian food"
+      "question": "Anne: Do you know the new girl in the</br>mailroom? Richard: No, but I think she's Cathy's friend. </br>Anne: We should ask Cathy to introduce us at lunch. </br>Question: What department is the new girl in? ........",
+      "answers": ["Cathy's department", "The reception area", "The mailroom"],
+      "correct": "The mailroom"
     },
     {
       "id": 7,
-      "question": "Who is coming to the business conference? ........",
+      "question": "Ron: Do you think the business conference went well? </br>Sarah: Yes, but next year I think the planners should include more about global technology. </br>Ron: I agree. We should know more about that. </br>Question: What area does Sarah want to include in next year's conference? ........ ",
       "answers": [
-        "The management team and the personnel department are coming for sure",
-        "The assembly line workers were there",
-        "Fifty members attended the conference"
+        "The environment",
+        "Technology around the world",
+        "Technology and modern business"
       ],
-      "correct": "The management team and the personnel department are coming for sure"
+      "correct": "Technology around the world"
     },
     {
       "id": 8,
-      "question": "What are your thoughts on yesterday's meeting? ........",
-      "answers": [
-        "I think the president will be there",
-        "I'm glad we covered the human resources' issue",
-        "We should bring up the workers' concerns"
-      ],
-      "correct": "I'm glad we covered the human resources' issue"
+      "question": "Harry: What time does your flight leave? </br>Deb: Our departure is scheduled for 7:45 in the morning. Could you take me to the airport? Harry: Sure. We'll have to leave the city at about 5 o'clock then. </br>Deb: Sounds good. </br>Question: What time does Sue's flight leave? ........",
+      "answers": ["7:45 am", "5 am", "7:45 pm"],
+      "correct": "7:45 am"
     },
     {
       "id": 9,
-      "question": "When are you going to the party? ........",
+      "question": "Axel: Do you know anything about Thai cuisine? </br>Caroline: Yes, I love Thai food. Why? </br>Axel: My in-laws are taking my wife and I out to a Thai restaurant tonight. They really like that kind of food. </br>Question: Who is going for dinner at the Thai restaurant? ........ ",
       "answers": [
-        "We're going right after work",
-        "We arrived at 7 pm",
-        "Cindy is coming with me"
+        "Axel and his wife",
+        "Axel, his wife and her parents",
+        "Axel, his wife and his parents"
       ],
-      "correct": "We're going right after work"
+      "correct": "Axel, his wife and her parents"
     },
     {
       "id": 10,
-      "question": "Where is the best place to go for a drink? ........",
+      "question": "Jane: How many people were at Brad's wedding? </br>Bruce: Oh, there must have been at least 150 people there. The reception hall was really big and it was nearly full of guests. We had a great time. </br>Jane: That's great. </br>Question: How many people were at Brad's wedding? ........ ",
       "answers": [
-        "La Cantina has some great food",
-        "I'll meet you there after work",
-        "The little pub around the corner has great beer on tap"
+        "Much more than 150 people",
+        "About 150 people",
+        "Less than 150 people"
       ],
-      "correct": "The little pub around the corner has great beer on tap"
+      "correct": "About 150 people"
     }
   ]
 }

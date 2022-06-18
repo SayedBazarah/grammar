@@ -1,101 +1,85 @@
 {
-  "title": "Response Test",
+  "title": "Idioms with the phrasal verb pull",
   "questions": [
     {
       "id": 1,
-      "question": "When do you have to pick John up at the airport? ........",
+      "question": "I was told that his chances for ........ the surgery were slim and if he did make it, he was given little hope for the next 24 hours.",
       "answers": [
-        "He flew into the international airport",
-        "I don't think she's coming",
-        "I should be there at about five o'clock"
+        "pulling in",
+        "pulling out",
+        "pulling through",
+        "pulling down"
       ],
-      "correct": "I should be there at about five o'clock"
+      "correct": "pulling through"
     },
     {
       "id": 2,
-      "question": "What are you going to buy your wife for Christmas? ........",
-      "answers": [
-        "I picked it up yesterday",
-        "A bottle of perfume",
-        "She received jewelry from her mother"
-      ],
-      "correct": "A bottle of perfume"
+      "question": "\"If you don't behave,\" my father said, \"I'm going to ........ right here, and you can wait by the side of the road tillwe come and get you.",
+      "answers": ["pull over", "pull out", "pull through", "pull down"],
+      "correct": "pull over"
     },
     {
       "id": 3,
-      "question": "How many people are coming to the birthday party? ........",
+      "question": "............ this period has given me the confidence and courage to pursue anything I want to despite the hard times.",
       "answers": [
-        "There were about 70 people at the restaurant around the corner",
-        "Fifty people were there",
-        "We're expecting about 25 people"
+        "Pulling off",
+        "Pulling out",
+        "Pulling through",
+        "Pulling in"
       ],
-      "correct": "We're expecting about 25 people"
+      "correct": "Pulling through"
     },
     {
       "id": 4,
-      "question": "What are you doing tonight? ........",
-      "answers": [
-        "We had a great time",
-        "I went to that new Asian restaurant",
-        "I think I'm going to a movie with Susan"
-      ],
-      "correct": "I think I'm going to a movie with Susan"
+      "question": "Children should never be allowed to play in driveways because one never knows when someone may ........",
+      "answers": ["pull over", "pull off", "pull through", "pull in"],
+      "correct": "pull in"
     },
     {
       "id": 5,
-      "question": "How was your honeymoon? ........",
-      "answers": ["It was great", "We went by plane", "We went to Mexico"],
-      "correct": "It was great"
+      "question": "President Bush said last Saturday that ........ of Iraq now is not an option and rejected calls by some lawmakers to start bringing U.S. troops home.",
+      "answers": [
+        "pulling off",
+        "pulling out",
+        "pulling through",
+        "pulling in"
+      ],
+      "correct": "pulling out"
     },
     {
       "id": 6,
-      "question": "What is your favorite kind of food? ........",
-      "answers": [
-        "I ate Mexican food yesterday",
-        "I like Italian food",
-        "Korean cuisine is very spicy"
-      ],
-      "correct": "I like Italian food"
+      "question": "The M4 dissects the Downs and the rest of the county from east to west. The noise affects a wide area either side of the motorway and can ........ real estate prices.",
+      "answers": ["pull over", "pull out", "pull through", "pull down"],
+      "correct": "pull down"
     },
     {
       "id": 7,
-      "question": "Who is coming to the business conference? ........",
-      "answers": [
-        "The management team and the personnel department are coming for sure",
-        "The assembly line workers were there",
-        "Fifty members attended the conference"
-      ],
-      "correct": "The management team and the personnel department are coming for sure"
+      "question": "Cyclists should always ember that motorists will frequently cross the bike lane to park and ........ and out of rem driveways.  ",
+      "answers": ["pull over", "pull out", "pull through", "pull in"],
+      "correct": "pull in"
     },
     {
       "id": 8,
-      "question": "What are your thoughts on yesterday's meeting? ........",
+      "question": "Rescue teams rushed to the site and started ........ bodies from beneath the wreckage of the five-storied Al Ghaza hotel. ",
       "answers": [
-        "I think the president will be there",
-        "I'm glad we covered the human resources' issue",
-        "We should bring up the workers' concerns"
+        "pulling in",
+        "pulling out",
+        "pulling through",
+        "pulling down"
       ],
-      "correct": "I'm glad we covered the human resources' issue"
+      "correct": "pulling out"
     },
     {
       "id": 9,
-      "question": "When are you going to the party? ........",
-      "answers": [
-        "We're going right after work",
-        "We arrived at 7 pm",
-        "Cindy is coming with me"
-      ],
-      "correct": "We're going right after work"
+      "question": "If you experience a breakdown, you should ........ to the side of the road and raise the hood of your car. ",
+      "answers": ["pull over", "pull out", "pulling through", "pulling down"],
+      "correct": "pull over"
     },
     {
       "id": 10,
-      "question": "Where is the best place to go for a drink? ........",
-      "answers": [
-        "La Cantina has some great food",
-        "I'll meet you there after work",
-        "The little pub around the corner has great beer on tap"
-      ],
-      "correct": "The little pub around the corner has great beer on tap"
+      "question": "One of the most memorable images of the war was created when U.S. troops ........ the statue of Saddam Hussein in Fardus Square. ",
+      "answers": ["pulled over", "pulled out", "pulled through", "pulled down"],
+      "correct": "pulled down"
     }
   ]
 }

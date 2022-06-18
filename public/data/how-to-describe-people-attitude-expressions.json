@@ -1,101 +1,65 @@
 {
-  "title": "Response Test",
+  "title": "How to describe people: attitude expressions",
   "questions": [
     {
       "id": 1,
-      "question": "When do you have to pick John up at the airport? ........",
-      "answers": [
-        "He flew into the international airport",
-        "I don't think she's coming",
-        "I should be there at about five o'clock"
-      ],
-      "correct": "I should be there at about five o'clock"
+      "question": "My wife is always ........ when she gets her period and becomes angry at me for no reason at all. ",
+      "answers": ["jealous", "talkative", "content", "bad-tempered"],
+      "correct": "bad-tempered"
     },
     {
       "id": 2,
-      "question": "What are you going to buy your wife for Christmas? ........",
-      "answers": [
-        "I picked it up yesterday",
-        "A bottle of perfume",
-        "She received jewelry from her mother"
-      ],
-      "correct": "A bottle of perfume"
+      "question": "Students at the school where I teach are so ......... They always hand in their homework on time.",
+      "answers": ["patient", "lazy", "reliable", "friendly"],
+      "correct": "reliable"
     },
     {
       "id": 3,
-      "question": "How many people are coming to the birthday party? ........",
-      "answers": [
-        "There were about 70 people at the restaurant around the corner",
-        "Fifty people were there",
-        "We're expecting about 25 people"
-      ],
-      "correct": "We're expecting about 25 people"
+      "question": "Glenn is so ......... He always helps out the underprivileged people in our community. ",
+      "answers": ["creative", "reticent", "sociable", "generous"],
+      "correct": "generous"
     },
     {
       "id": 4,
-      "question": "What are you doing tonight? ........",
-      "answers": [
-        "We had a great time",
-        "I went to that new Asian restaurant",
-        "I think I'm going to a movie with Susan"
-      ],
-      "correct": "I think I'm going to a movie with Susan"
+      "question": "My little sister is so ........ at school that she is too afraid to ask to go to the toilet. ",
+      "answers": ["timid", "intrepid", "tolerant", "envious"],
+      "correct": "timid"
     },
     {
       "id": 5,
-      "question": "How was your honeymoon? ........",
-      "answers": ["It was great", "We went by plane", "We went to Mexico"],
-      "correct": "It was great"
+      "question": "Never ask Phoebe to dance while her husband is looking. He always gets so......... of her. ",
+      "answers": ["jealous", "responsive", "mortified", "tolerant"],
+      "correct": "jealous"
     },
     {
       "id": 6,
-      "question": "What is your favorite kind of food? ........",
-      "answers": [
-        "I ate Mexican food yesterday",
-        "I like Italian food",
-        "Korean cuisine is very spicy"
-      ],
-      "correct": "I like Italian food"
+      "question": "Our new teacher is so ......... If we don't understand something, she goes over it again and again until we do. ",
+      "answers": ["lazy", "shy", "patient", "friendly"],
+      "correct": "patient"
     },
     {
       "id": 7,
-      "question": "Who is coming to the business conference? ........",
-      "answers": [
-        "The management team and the personnel department are coming for sure",
-        "The assembly line workers were there",
-        "Fifty members attended the conference"
-      ],
-      "correct": "The management team and the personnel department are coming for sure"
+      "question": "I think Indonesian people are so ......... They'll always come up to you in the street and try to practice their English. ",
+      "answers": ["friendly", "reliable", "imaginative", "bad-tempered"],
+      "correct": "friendly"
     },
     {
       "id": 8,
-      "question": "What are your thoughts on yesterday's meeting? ........",
-      "answers": [
-        "I think the president will be there",
-        "I'm glad we covered the human resources' issue",
-        "We should bring up the workers' concerns"
-      ],
-      "correct": "I'm glad we covered the human resources' issue"
+      "question": "Barry loves to talk a lot, doesn't he? In fact, I don't think I've ever met anyone quite as ........ as him. ",
+      "answers": ["reserved", "cantankerous", "chatty", "liberal"],
+      "correct": "chatty"
     },
     {
       "id": 9,
-      "question": "When are you going to the party? ........",
-      "answers": [
-        "We're going right after work",
-        "We arrived at 7 pm",
-        "Cindy is coming with me"
-      ],
-      "correct": "We're going right after work"
+      "question": "Mary's husband is so ......... He never helps her with any of the chores around the house. ",
+      "answers": ["vigorous", "dependable", "lazy", "tolerant"],
+      "correct": "lazy"
     },
     {
       "id": 10,
-      "question": "Where is the best place to go for a drink? ........",
-      "answers": [
-        "La Cantina has some great food",
-        "I'll meet you there after work",
-        "The little pub around the corner has great beer on tap"
-      ],
-      "correct": "The little pub around the corner has great beer on tap"
+      "question": "Our English teacher at school is so ......... He is always coming up with new games that help make learning fun. ",
+      "answers": ["bland", "creative", "talkative", "trustworthy"],
+      "correct": "creative"
     }
   ]
 }

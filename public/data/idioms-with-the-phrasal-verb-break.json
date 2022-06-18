@@ -1,101 +1,70 @@
 {
-  "title": "Response Test",
+  "title": "Idioms with the phrasal verb break",
   "questions": [
     {
       "id": 1,
-      "question": "When do you have to pick John up at the airport? ........",
-      "answers": [
-        "He flew into the international airport",
-        "I don't think she's coming",
-        "I should be there at about five o'clock"
-      ],
-      "correct": "I should be there at about five o'clock"
+      "question": "After years of working for a shoddy employer I was finally able to ........ from that company and set up my own business  ",
+      "answers": ["break off", "break away", "break out", "break up"],
+      "correct": "break away"
     },
     {
       "id": 2,
-      "question": "What are you going to buy your wife for Christmas? ........",
+      "question": "Nasa is currently in the process of trying to work out how to avoid any more of its spaceships from......... on re- entry to Earth. ",
       "answers": [
-        "I picked it up yesterday",
-        "A bottle of perfume",
-        "She received jewelry from her mother"
+        "breaking off",
+        "breaking away",
+        "breaking out",
+        "breaking up"
       ],
-      "correct": "A bottle of perfume"
+      "correct": "break up"
     },
     {
       "id": 3,
-      "question": "How many people are coming to the birthday party? ........",
-      "answers": [
-        "There were about 70 people at the restaurant around the corner",
-        "Fifty people were there",
-        "We're expecting about 25 people"
-      ],
-      "correct": "We're expecting about 25 people"
+      "question": "Residents living in the immediate vicinity of the prison w who recently ........ out of goal. ",
+      "answers": ["broke-off", "broke-away", "broke-out", "broke-up"],
+      "correct": "broke-out"
     },
     {
       "id": 4,
-      "question": "What are you doing tonight? ........",
-      "answers": [
-        "We had a great time",
-        "I went to that new Asian restaurant",
-        "I think I'm going to a movie with Susan"
-      ],
-      "correct": "I think I'm going to a movie with Susan"
+      "question": "It can be very difficult for youg couples to......... a marriage when there are young children involved.",
+      "answers": ["break off", "break away", "break out", "break up"],
+      "correct": "break up"
     },
     {
       "id": 5,
-      "question": "How was your honeymoon? ........",
-      "answers": ["It was great", "We went by plane", "We went to Mexico"],
-      "correct": "It was great"
+      "question": "I decided to ........ my realtionship with my girlfriendwhen I found out that she was seeing someone else.",
+      "answers": ["break off", "break away", "break out", "break open"],
+      "correct": "break off"
     },
     {
       "id": 6,
-      "question": "What is your favorite kind of food? ........",
-      "answers": [
-        "I ate Mexican food yesterday",
-        "I like Italian food",
-        "Korean cuisine is very spicy"
-      ],
-      "correct": "I like Italian food"
+      "question": "Be careful not to spill the yolk when you ........ the egg.",
+      "answers": ["break out", "break off", "break open", "break down"],
+      "correct": "break open"
     },
     {
       "id": 7,
-      "question": "Who is coming to the business conference? ........",
-      "answers": [
-        "The management team and the personnel department are coming for sure",
-        "The assembly line workers were there",
-        "Fifty members attended the conference"
-      ],
-      "correct": "The management team and the personnel department are coming for sure"
+      "question": "A burglar ........ when I was away on vacation and stole of my electronic goods.",
+      "answers": ["broke into", "broke off", "broke open", "broke up"],
+      "correct": "broke into"
     },
     {
       "id": 8,
-      "question": "What are your thoughts on yesterday's meeting? ........",
-      "answers": [
-        "I think the president will be there",
-        "I'm glad we covered the human resources' issue",
-        "We should bring up the workers' concerns"
-      ],
-      "correct": "I'm glad we covered the human resources' issue"
+      "question": "Teachers in Sydney have decided to call a snap strike next week after negotiations with the State Government over a ten per cent pay increase ........ early this morning.",
+      "answers": ["broke into", "broke down", "broke open", "broke up"],
+      "correct": "broke down"
     },
     {
       "id": 9,
-      "question": "When are you going to the party? ........",
-      "answers": [
-        "We're going right after work",
-        "We arrived at 7 pm",
-        "Cindy is coming with me"
-      ],
-      "correct": "We're going right after work"
+      "question": "A rebel Labor Party MP recently decided to ........ from his party and become and independent member electorate. ",
+      "answers": ["break off", "break away", "break out", "break up"],
+      "correct": "break away"
     },
     {
       "id": 10,
-      "question": "Where is the best place to go for a drink? ........",
-      "answers": [
-        "La Cantina has some great food",
-        "I'll meet you there after work",
-        "The little pub around the corner has great beer on tap"
-      ],
-      "correct": "The little pub around the corner has great beer on tap"
+      "question": "I am always very worried that my car will ........ because it is already twenty years old.",
+      "answers": ["break down", "break out", "break away", "break off"],
+      "correct": "break down"
     }
   ]
 }
