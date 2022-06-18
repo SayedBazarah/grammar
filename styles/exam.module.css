@@ -1,13 +1,21 @@
 .navigator button {
   border: none;
-  background-color: crimson;
+  background-color: #07293e;
   color: white;
   padding: 8px 16px;
   border-radius: 4px;
-  border: 1px crimson solid;
+  border: 1px #07293e solid;
   outline: none;
 }
 
+.back {
+  background-color: #07293e;
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  margin-bottom: 30px;
+}
 .navigator {
   display: flex;
   flex: 1;
@@ -16,7 +24,7 @@
 }
 
 .question {
-  background-color: crimson;
+  background-color: #07293e;
   color: white;
   padding: 30px 20px 30px 20px;
 }
@@ -35,7 +43,7 @@
 .question button {
   border: none;
   color: white;
-  background-color: crimson;
+  background-color: #07293e;
   border: 1px solid white;
   border-radius: 4px;
   padding: 10px 20px;
@@ -43,19 +51,19 @@
 }
 .container button:hover {
   background-color: white;
-  color: crimson;
-  border: 1px crimson solid;
+  color: #07293e;
+  border: 1px #07293e solid;
 }
 
 .result section {
-  color: crimson;
+  color: #07293e;
 
   display: flex;
   flex-direction: column;
   gap: 20px;
 }
 .result h2 {
-  background-color: crimson;
+  background-color: #07293e;
   color: white;
   padding: 15px 10px;
   margin-bottom: 20px;

@@ -2,6 +2,7 @@ import path from "path";
 import fs from "fs";
 import { useState } from "react";
 import Style from "../styles/exam.module.css";
+import Link from "next/link";
 
 export default function Exam({ data: { title, questions } }) {
   const [answers, setAnswers] = useState();
@@ -31,7 +32,10 @@ export default function Exam({ data: { title, questions } }) {
       <div>
         {count == 10 ? (
           <div className={Style.result}>
-            <h2>Your Score: {score}</h2>
+            <Link href="/">
+              <a className={Style.back}>Back to Main Menu</a>
+            </Link>
+            <h2>Your Score: {score} / 10</h2>
             <section>
               {wrongAnswers.map((id) => {
                 return (
