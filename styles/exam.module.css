@@ -1,0 +1,65 @@
+.navigator button {
+  border: none;
+  background-color: crimson;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  border: 1px crimson solid;
+  outline: none;
+}
+
+.navigator {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.question {
+  background-color: crimson;
+  color: white;
+  padding: 30px 20px 30px 20px;
+}
+.question h2 {
+  font-size: 20px;
+}
+.question p {
+  font-size: 17px;
+  margin-bottom: 30px;
+}
+.question div {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.question button {
+  border: none;
+  color: white;
+  background-color: crimson;
+  border: 1px solid white;
+  border-radius: 4px;
+  padding: 10px 20px;
+  text-align: left;
+}
+.container button:hover {
+  background-color: white;
+  color: crimson;
+  border: 1px crimson solid;
+}
+
+.result section {
+  color: crimson;
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.result h2 {
+  background-color: crimson;
+  color: white;
+  padding: 15px 10px;
+  margin-bottom: 20px;
+}
+.result div span {
+  font-weight: bold;
+}
