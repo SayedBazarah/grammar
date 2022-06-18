@@ -35,7 +35,7 @@ export default function Exam({ data: { title, questions } }) {
             <section>
               {wrongAnswers.map((id) => {
                 return (
-                  <div>
+                  <div key={id}>
                     <p>
                       <span>Question{id + 1}: </span>
                       {questions[id].question}

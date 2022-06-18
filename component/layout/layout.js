@@ -10,7 +10,7 @@ function Layout() {
     "Idioms with the phrasal verb break",
     "financial and bank expressions",
     "Idioms with the phrasal verb run",
-    "Traveling Downunder: How can I immigrate to Australia?",
+    "Traveling Downunder: How can I immigrate to Australia",
     "How to describe people: attitude expressions",
     "Comparison with as as",
     "English grammar and vocabulary questions",
